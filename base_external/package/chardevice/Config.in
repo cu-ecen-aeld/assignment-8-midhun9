@@ -1,0 +1,4 @@
+config BR2_PACKAGE_CHARDEVICE
+	bool "chardevice"
+	help
+	  Includes the modules for assignment 8 in kernel image
