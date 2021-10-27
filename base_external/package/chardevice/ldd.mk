@@ -1,6 +1,6 @@
 #CHARDEVICE
 
-CHARDEVICE_VERSION = 396e3077cafb28165fd241f0161236a389698ca8
+CHARDEVICE_VERSION = 5370468292aaa9c92f191b512a4e0a432e2e2fae
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
